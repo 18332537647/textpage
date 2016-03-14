@@ -1,0 +1,9 @@
+图片整体不能自适应
+
+banner的宽度，banner如何插入
+
+小鸟和Facebook图标的位置 
+
+footer-top一行的位置
+
+

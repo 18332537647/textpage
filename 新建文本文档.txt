@@ -1,0 +1,15 @@
+Do Awesome Things
+
+Wewant to change the way people work together by building easy to use productivity apps that work anywhere you are.
+  
+Do is a startup from Salesforce that's dedicated the way people work together.
+
+With Do,you can work on shared or private tasks,projects,and notes.You can attach documents to your tasks.Track progress through 
+activity feeds,comments,and real-time notifications.Do is alse mobile,so you can work from anywhere with your phone, table,or computer
+.We even work with Google Apps-attach a Goole Doc to your tasks,create a task from Gmall,and sign in with your Goole account credentials.
+
+At Do,wo enjoy helping people work better. Inaddition to marking productivity apps.We contribute to the design and technology communities by:
+
+contribuing to open source projects.
+sharing best practices at conferences such as Waze and Dreamforce.
+hosting design and technology meet ups.
